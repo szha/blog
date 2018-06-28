@@ -24,3 +24,5 @@ author: 王晨光 Amazon Applied Scientist
 于是自从有了GluonNLP语言模型后的杰伦，不再开不了口，而是变身诗人（*LAOSIJI*）：
 
 ![](img/qinghuaci.png){:width="500px"}
+
+想要了解更多的语言模型技术细节，请参考[这里](https://gluon-nlp.mxnet.io/scripts/index.html#language-model)和持续关注我们的公众号哦~
